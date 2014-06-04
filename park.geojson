@@ -6,13 +6,6 @@
 "type":"Feature",
 "geometry": {
 "type": "Point",
-"coordinates": [longitude,latitude]
-}
-},
-{
-"type":"Feature",
-"geometry": {
-"type": "Point",
 "coordinates": [-76.644241,39.296503]
 }
 },
