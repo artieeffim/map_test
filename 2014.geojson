@@ -4,10 +4,7 @@
 "features":[
 
 {
-"coordinates": [-76.6410600000, 39.3320100000]
-}
-},
-{
+
 "type":"Feature",
 "geometry": {
 "type": "Point",
